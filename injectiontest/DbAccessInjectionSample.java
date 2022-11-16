@@ -1,4 +1,4 @@
-package injection-test;
+package injectiontest;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
